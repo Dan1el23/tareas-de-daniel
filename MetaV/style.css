@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: Orbitron;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar {
+    position: relative;
+}
+
+
+.menu a:hover {
+
+    color: #D10ED1;
+    transition: backgronud-color;
+    0.7srgb(56, 31, 56)
+}
+.seccion{
+    position: relative;
+}
+.seccion span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.boton {
+    border: 1px;
+    solid border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.boton2 {
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+}
+
+
+
+
+
+.vector1 img {
+    position: absolute;
+    margin-top: 150px;
+}
+
+.padreimg {
+    position: relative;
+    height: 450px;
+}
+
+.hijo img {
+    position: absolute;
+    left: 218px;
+    top: 116px;
+}
+
+.boton3 {
+    border: 1px;
+    solid border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.seccion2 span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.seccion3 span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.cuadro1 {
+    background-color: #090823;
+    position: relative;
+}
+
+
+.boton4 {
+    border: 1px;
+    solid border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.boton5 {
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+}
+
+
+
+.seccion4 span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Orbitron;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.movil{
+    width: 2000px;
+ }
+.video {
+    position: relative;
+}
+
+.video1 {
+    position: absolute;
+    bottom: 20px;
+
+}
+video2{
+    width: 270px;
+    height: 200px;
+}
+.play {
+    position: absolute;
+    top: 250px;
+    left: 514px;
+
+}
+
+.seccion5 {
+    
+    background-color: #090823;
+}
+
+.seccion5 h2 {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

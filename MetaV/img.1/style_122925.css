@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    font-family: Orbitron;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar {
+    position: relative;
+}
+
+.circulo {
+    position: absolute;
+    top: -360px;
+    left: 102px;
+    padding: 421px;
+    border-radius: 896px;
+    background: radial-gradient(40.17% 39.79% at 50% 50%, rgba(170, 20, 240, 0.28) 0%, rgba(170, 20, 240, 0.00) 100%);
+}
+
+.menu a:hover {
+
+    color: #D10ED1;
+    transition: backgronud-color;
+    0.7srgb(56, 31, 56)
+}
+.seccion{
+    position: relative;
+}
+.seccion span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.boton {
+    border: 1px;
+    solid border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.boton2 {
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+}
+
+.seccion h5 {
+    font-family: Orbitron;
+}
+
+
+
+
+.vector1 img {
+    position: absolute;
+    margin-top: 150px;
+}
+
+.padreimg {
+    position: relative;
+    height: 450px;
+}
+
+.hijo img {
+    position: absolute;
+    left: 218px;
+    top: 116px;
+}
+
+.boton3 {
+    border: 1px;
+    solid border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.seccion2 span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.seccion3 span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.cuadro1 {
+    background-color: #090823;
+    position: relative;
+}
+
+
+.boton4 {
+    border: 1px;
+    solid border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.boton5 {
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+}
+
+.seccion4 {
+    height: 1000px;
+}
+
+.seccion4 span {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Orbitron;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.video {
+    position: relative;
+}
+
+.video1 {
+    position: absolute;
+    bottom: 20px;
+
+}
+
+.play {
+    position: absolute;
+    top: 250px;
+    left: 514px;
+
+}
+
+.seccion5 {
+    height: 330px;
+    background-color: #090823;
+}
+
+.seccion5 h2 {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
